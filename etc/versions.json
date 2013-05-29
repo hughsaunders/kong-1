@@ -116,5 +116,29 @@
     },
     "test_keystone_v2_03_get_tenant_list_diablo": {
         "max": "diablo-final"
+    },
+    "test_001_list_meters": {
+        "min": "grizzly"
+    },
+    "test_002_list_resources": {
+        "min": "grizzly"
+    },
+    "test_003_list_users": {
+        "min": "grizzly"
+    },
+    "test_004_list_projects": {
+        "min": "grizzly"
+    },
+    "test_005_list_meters_for_user": {
+        "min": "grizzly"
+    },
+    "test_006_list_meters_for_project": {
+        "min": "grizzly"
+    },
+    "test_007_list_resources_for_user": {
+        "min": "grizzly"
+    },
+    "test_008_list_resources_for_project": {
+        "min": "grizzly"
     }
 }
